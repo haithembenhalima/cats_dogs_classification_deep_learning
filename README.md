@@ -10,5 +10,6 @@ The dataset link from here:
 The <b>DenseNet</b> model used in this project is chosen for its ability to capture intricate patterns and features within images. The dense connectivity structure promotes feature reuse across layers, enabling the model to learn more discriminative representations.
 ## Performance Evaluation 
 Following the training phase, the model achieved an impressive accuracy of <b>94%</b>. This high accuracy indicates the effectiveness of the chosen model architecture and the quality of the dataset. Additionally, evaluation metrics such as precision, recall, and F1 score may provide more insights into the model's performance in distinguishing between dogs and cats.
+<img src="performance graph.png" ></img>
 ## Usage
 Feel free to explore the repository to access the code, trained model weights, and any additional resources related to this project. If you're interested in binary image classification tasks or are looking to implement a similar solution, this repository serves as a valuable reference.
