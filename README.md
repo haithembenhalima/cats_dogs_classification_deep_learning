@@ -1,5 +1,5 @@
 ## Description
-Welcome to the Dog and Cat Binary Classification GitHub repository! This project focuses on the application of deep learning techniques to distinguish between images of dogs and cats. The dataset used for training consists of a diverse collection of <b>700 images</b>, providing a robust foundation for building an effective binary classification model.
+Welcome to the Dog and Cat Binary Classification GitHub repository! This project focuses on the application of deep learning techniques to distinguish between images of dogs and cats. The dataset used for training consists of a diverse collection of <b>700 images</b> , providing a robust foundation for building an effective binary classification model.
 ## Approach
 his project employs a deep learning approach, leveraging the powerful DenseNet model based on Convolutional Neural Networks (CNNs). CNNs are well-suited for image classification tasks, and DenseNet's dense connectivity pattern helps enhance feature reuse, leading to more efficient learning.
 ## Dataset
