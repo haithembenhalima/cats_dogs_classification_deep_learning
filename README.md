@@ -5,7 +5,7 @@ his project employs a deep learning approach, leveraging the powerful DenseNet m
 ## Dataset
 The training dataset comprises a total of 700 images, carefully curated to cover various poses, backgrounds, and lighting conditions for both dogs and cats. The diversity of the dataset ensures that the model generalizes well to different scenarios, enhancing its real-world applicability.
 The dataset link from here: 
-<a href="[about.html](https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification/code)https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification/code)https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification/code)https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification/code">About</a>
+<a href="https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification/code">About</a>
 ## Model Architecture
 The DenseNet model used in this project is chosen for its ability to capture intricate patterns and features within images. The dense connectivity structure promotes feature reuse across layers, enabling the model to learn more discriminative representations.
 ## Performance Evaluation 
